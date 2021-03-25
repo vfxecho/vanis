@@ -1,1 +1,1 @@
-worker: node src/index.js
+worker: node Ogar69-master/src/index.js
